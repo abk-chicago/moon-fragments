@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Planetary Fragments</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Io">Io</string>
+    <string name="Europa">Europa</string>
+    <string name="Ganymede">Ganymede</string>
+    <string name="Callisto">Callisto</string>
+</resources>
